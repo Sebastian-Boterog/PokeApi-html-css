@@ -58,3 +58,6 @@ function createPokemonCard(pokemon) {
 
 
 fetchPokemons();
+
+
+//mm
